@@ -51,6 +51,9 @@ playground.xcworkspace
 # Add this line if you want to avoid checking in source code from the Xcode workspace
 # *.xcworkspace
 
+# Mac OS X Finder and whatnot
+.DS_Store
+
 # Carthage
 #
 # Add this line if you want to avoid checking in source code from Carthage dependencies.
